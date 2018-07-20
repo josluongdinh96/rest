@@ -3,7 +3,8 @@
 module Restexample.Client.Post.Comment where
 import Rest.Client.Internal
 import qualified Restexample.Client.Post as Post
-import qualified Rest.Types.Void
+import qualified Rest.Types.Voidnnn
+
 import qualified Rest.Types.Container
 import qualified Type.Comment
 import qualified Type.UserComment
